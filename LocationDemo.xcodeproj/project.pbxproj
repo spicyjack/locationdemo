@@ -444,6 +444,7 @@
 				D3371253156F651500F98329 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D3371254156F651500F98329 /* Build configuration list for PBXNativeTarget "LocationDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -452,6 +453,7 @@
 				D3371256156F651500F98329 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
