@@ -38,21 +38,21 @@
 		D337121F156F651400F98329 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		D3371221156F651400F98329 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D3371223156F651400F98329 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		D3371227156F651400F98329 /* LocationDemo-Info.plist */ = {isa = PBXFileReference; path = "LocationDemo-Info.plist"; sourceTree = "<group>"; };
+		D3371227156F651400F98329 /* LocationDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LocationDemo-Info.plist"; sourceTree = "<group>"; };
 		D3371229156F651400F98329 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D337122B156F651400F98329 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		D337122D156F651400F98329 /* LocationDemo-Prefix.pch */ = {isa = PBXFileReference; path = "LocationDemo-Prefix.pch"; sourceTree = "<group>"; };
-		D337122E156F651400F98329 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		D337122D156F651400F98329 /* LocationDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LocationDemo-Prefix.pch"; sourceTree = "<group>"; };
+		D337122E156F651400F98329 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		D337122F156F651400F98329 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		D3371231156F651400F98329 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		D3371231156F651400F98329 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		D3371232156F651400F98329 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		D3371235156F651400F98329 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		D3371238156F651400F98329 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
 		D337123F156F651500F98329 /* LocationDemoTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocationDemoTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3371240156F651500F98329 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		D3371248156F651500F98329 /* LocationDemoTests-Info.plist */ = {isa = PBXFileReference; path = "LocationDemoTests-Info.plist"; sourceTree = "<group>"; };
+		D3371248156F651500F98329 /* LocationDemoTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LocationDemoTests-Info.plist"; sourceTree = "<group>"; };
 		D337124A156F651500F98329 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		D337124C156F651500F98329 /* LocationDemoTests.h */ = {isa = PBXFileReference; path = LocationDemoTests.h; sourceTree = "<group>"; };
+		D337124C156F651500F98329 /* LocationDemoTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocationDemoTests.h; sourceTree = "<group>"; };
 		D337124D156F651500F98329 /* LocationDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocationDemoTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
